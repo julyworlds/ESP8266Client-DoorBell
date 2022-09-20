@@ -11,4 +11,5 @@ Note: the original purpose of this project is to be used in an intercom device, 
 This project is based on a ESP-01S
 
 Schema:
+
 ![imagen](https://user-images.githubusercontent.com/855526/191354560-23153de3-7aff-4449-bde9-5f7eb0fb8c5a.png)
