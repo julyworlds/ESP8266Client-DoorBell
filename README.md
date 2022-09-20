@@ -2,9 +2,14 @@
 
 Project to make an smart intercom connected to home assistant through a mqtt server
 
-Features:
+Project features:
 - Detect intercom ring signal
 - Open/Unlock intercom door
+
+Project utils:
+- Log to mqtt topic
+- Log to http server
+- ArduinoOTA
 
 Note: the original purpose of this project is to be used in an intercom device, but it could be used also in a door lock and door ring bell.
 
